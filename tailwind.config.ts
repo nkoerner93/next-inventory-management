@@ -1,4 +1,5 @@
 import type { Config } from "tailwindcss";
+import { createThemes } from "tw-colors";
 
 const config: Config = {
   content: [
